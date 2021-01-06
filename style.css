@@ -70,21 +70,21 @@ h3{
 #headDiv1{
     display: grid;
     grid-template-columns: auto max-content;
-    overflow: scroll;
+    
 }
 #p1hover {
     display: none;
-    overflow: scroll;
+    
 }
 #traitDiv1:hover #p1hover {
     display: block;
-    overflow: scroll;
+    
 }
 #traitDiv1:hover div {
     background-color: #696969;
     color: black;
     border-radius: 5px;
-    overflow: scroll;
+    
 }
 
 
